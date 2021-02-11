@@ -1,5 +1,5 @@
 {
-    "prefix": "/get/",
+    "prefix": "/course/",
     "ssl": false,
     "port": "8080",
     "cookie_auth": "__alloy_client=human"
