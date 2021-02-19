@@ -44,6 +44,11 @@ transition: 0.3s;
 border-radius: 2px;
 }
 
+#btn:hover {
+background: #0066ff;
+color: #fff;
+}
+
 .container a {
 height: 20px;
 color: #ddd;
