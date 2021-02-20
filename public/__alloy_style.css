@@ -4,14 +4,6 @@ body {
     text-align: center;
 }
 
-.container {
-   margin-top: 10%;
-   font-family: "Noto Sans JP";
-   font-size: "50px";
-   color: #FFF;
-   
-}
-
 .container p {
 font-size: 50px;
 margin-bottom: 2px;
@@ -37,16 +29,11 @@ height: 28px;
 border: solid 1px #000000;
 font-family: "Roboto";
 font-size: 16px;
-color: #000000;
+color: #fff;
 padding: 8px 0px;
 box-sizing: content-box;
 transition: 0.3s;
 border-radius: 2px;
-}
-
-#btn:hover {
-background: #000000;
-color: #fff;
 }
 
 .container a {
